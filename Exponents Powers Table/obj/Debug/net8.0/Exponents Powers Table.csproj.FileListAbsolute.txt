@@ -1,0 +1,14 @@
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\bin\Debug\net8.0\Exponents Powers Table.exe
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\bin\Debug\net8.0\Exponents Powers Table.deps.json
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\bin\Debug\net8.0\Exponents Powers Table.runtimeconfig.json
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\bin\Debug\net8.0\Exponents Powers Table.dll
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\bin\Debug\net8.0\Exponents Powers Table.pdb
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\Exponents Powers Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\Exponents Powers Table.AssemblyInfoInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\Exponents Powers Table.AssemblyInfo.cs
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\Exponents Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\Exponents Powers Table.dll
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\refint\Exponents Powers Table.dll
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\Exponents Powers Table.pdb
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\Exponents Powers Table.genruntimeconfig.cache
+C:\Users\Dominic\source\GrandCircus\repos\Exponents Powers Table\Exponents Powers Table\obj\Debug\net8.0\ref\Exponents Powers Table.dll
