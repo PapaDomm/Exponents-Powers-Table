@@ -69,14 +69,14 @@ static void makeTable(int num)
 static bool contProgram()
 {
     Console.Write("Would you like to do another Powers Table?(Y/N): ");
-    string answer = Console.ReadLine().ToUpper().Trim().Substring(0);
+    string answer = Console.ReadLine().ToUpper().Trim().Substring(0, 1);
     Console.WriteLine();
 
     //Validation loop until user enters Y or N
     while (answer != "Y" &&  answer != "N")
     {
         Console.WriteLine("Please enter a valid answer!(Y/N): ");
-        answer = Console.ReadLine().ToUpper().Trim().Substring(0);
+        answer = Console.ReadLine().ToUpper().Trim().Substring(0, 1);
         Console.WriteLine();
     }
 

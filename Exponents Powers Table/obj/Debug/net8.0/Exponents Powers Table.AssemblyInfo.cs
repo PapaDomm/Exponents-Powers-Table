@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exponents Powers Table")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c1d3fd500b2758725e630e19a122173e60061c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exponents Powers Table")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exponents Powers Table")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
