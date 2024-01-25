@@ -53,13 +53,13 @@ static int cubeNum(int num)
 static void makeTable(int num)
 {
     //Base formating for text
-    Console.WriteLine(String.Format("{0,6} {1,15} {2,15}", "Number","Squared","Cubed"));
-    Console.WriteLine(String.Format("{0,6} {1,15} {2,15}","======","=======","====="));
+    Console.WriteLine(String.Format("{0,6}      | {1,15}      | {2,15}", "Number","Squared","Cubed"));
+    Console.WriteLine("====================================================");
 
     //For loop to print out all numbers and their calculations
     for (int i = 1; i <= num; i++)
     {
-        Console.WriteLine(String.Format("{0,6} {1,15} {2,15}", $"{i}", $"{sqNum(i)}", $"{cubeNum(i)}"));
+        Console.WriteLine(String.Format("{0,6}      | {1,15}      | {2,15}", $"{i}", $"{sqNum(i)}", $"{cubeNum(i)}"));
     }
     Console.WriteLine();
 }
